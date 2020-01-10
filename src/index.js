@@ -81,8 +81,6 @@ class Clock extends React.Component {
   }
 
   
-
-  
   
   ReactDOM.render(
     <Clock />,
@@ -90,6 +88,3 @@ class Clock extends React.Component {
   );
   
   
-
-
-
